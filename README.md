@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/hoangnguyen3110/warm-up/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/hoangnguyen3110/warm-up/tree/master/0643-maximum-average-subarray-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hoangnguyen3110/warm-up/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hoangnguyen3110/warm-up/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/hoangnguyen3110/warm-up/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/hoangnguyen3110/warm-up/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
