@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/hoangnguyen3110/warm-up/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/hoangnguyen3110/warm-up/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/hoangnguyen3110/warm-up/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hoangnguyen3110/warm-up/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hoangnguyen3110/warm-up/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hoangnguyen3110/warm-up/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/hoangnguyen3110/warm-up/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hoangnguyen3110/warm-up/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/hoangnguyen3110/warm-up/tree/master/0739-daily-temperatures) |
 | [1544-make-the-string-great](https://github.com/hoangnguyen3110/warm-up/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hoangnguyen3110/warm-up/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/hoangnguyen3110/warm-up/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
