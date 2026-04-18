@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/hoangnguyen3110/warm-up/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hoangnguyen3110/warm-up/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/hoangnguyen3110/warm-up/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0414-third-maximum-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hoangnguyen3110/warm-up/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hoangnguyen3110/warm-up/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/hoangnguyen3110/warm-up/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hoangnguyen3110/warm-up/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/hoangnguyen3110/warm-up/tree/master/0739-daily-temperatures) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hoangnguyen3110/warm-up/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
