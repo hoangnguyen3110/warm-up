@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hoangnguyen3110/warm-up/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0203-remove-linked-list-elements](https://github.com/hoangnguyen3110/warm-up/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/hoangnguyen3110/warm-up/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/hoangnguyen3110/warm-up/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
