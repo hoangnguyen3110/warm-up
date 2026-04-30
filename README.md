@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hoangnguyen3110/warm-up/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/hoangnguyen3110/warm-up/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/hoangnguyen3110/warm-up/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/hoangnguyen3110/warm-up/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/hoangnguyen3110/warm-up/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hoangnguyen3110/warm-up/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0977-squares-of-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/hoangnguyen3110/warm-up/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/hoangnguyen3110/warm-up/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
