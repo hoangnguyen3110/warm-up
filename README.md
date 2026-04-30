@@ -132,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hoangnguyen3110/warm-up/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hoangnguyen3110/warm-up/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hoangnguyen3110/warm-up/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
