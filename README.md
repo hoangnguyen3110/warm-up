@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hoangnguyen3110/warm-up/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hoangnguyen3110/warm-up/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hoangnguyen3110/warm-up/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hoangnguyen3110/warm-up/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hoangnguyen3110/warm-up/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/hoangnguyen3110/warm-up/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hoangnguyen3110/warm-up/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/hoangnguyen3110/warm-up/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/hoangnguyen3110/warm-up/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hoangnguyen3110/warm-up/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/hoangnguyen3110/warm-up/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/hoangnguyen3110/warm-up/tree/master/0389-find-the-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hoangnguyen3110/warm-up/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hoangnguyen3110/warm-up/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/hoangnguyen3110/warm-up/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hoangnguyen3110/warm-up/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
