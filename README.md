@@ -144,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hoangnguyen3110/warm-up/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hoangnguyen3110/warm-up/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/hoangnguyen3110/warm-up/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hoangnguyen3110/warm-up/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hoangnguyen3110/warm-up/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/hoangnguyen3110/warm-up/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/hoangnguyen3110/warm-up/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hoangnguyen3110/warm-up/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
